@@ -1,0 +1,10 @@
+Metadata-Version: 2.2
+Name: bop-modeling-data-airflow
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: apache-airflow>=2.10.4
+Requires-Dist: apache-airflow-providers-snowflake>=6.0.0
+Requires-Dist: dbt-core>=1.9.1
+Requires-Dist: dbt-snowflake>=1.9.0

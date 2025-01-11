@@ -1,0 +1,12 @@
+.
+|-- README.md
+|-- hello.py
+|-- pyproject.toml
+|-- src
+|   |-- __init__.py
+|   |-- dag.py
+|   `-- dbt_run_operator.py
+|-- tree
+`-- uv.lock
+
+2 directories, 8 files
